@@ -1,0 +1,244 @@
+Uri: https://fen-styler.shopyou.site/css/Montserrat.css
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\css\Montserrat.css
+Content Type: text/css
+
+Uri: https://fen-styler.shopyou.site/css/reset.css
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\css\reset.css
+Content Type: text/css
+
+Uri: https://fen-styler.shopyou.site/css/styles.css
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\css\styles.css
+Content Type: text/css
+
+Uri: https://fen-styler.shopyou.site/images/1.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/11.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\11.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/12.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\12.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/13.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\13.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/14.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\14.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/2.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/20.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\20.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/21.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\21.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/3.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/5.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/ava1.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\ava1.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/ava2.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\ava2.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/ava3.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\ava3.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/bg_light.jpg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: https://fen-styler.shopyou.site/images/check.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\check.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/offer1__timer_arrows.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\offer1__timer_arrows.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/offer3__discount_bg.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/offer__name_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/offer__phone_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps1__step1_image.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps1__step1_image.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps1__step2_image.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps1__step2_image.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps1__step3_image.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps1__step3_image.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps1__step4_image.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps1__step4_image.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps__step1_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps__step2_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps__step3_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/order_steps__step4_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/quote1_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\quote1_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/quote2_icon.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\quote2_icon.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/reviews2__arrows.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\reviews2__arrows.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/reviews3__stars.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\reviews3__stars.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/reviews4__arrows.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\reviews4__arrows.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/select.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\select.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/separator_red.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\separator_red.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/separator_white.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\separator_white.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/images/slider__arrows.png
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\images\slider__arrows.png
+Content Type: image/png
+
+Uri: https://fen-styler.shopyou.site/index.php?fbp=224594127363947
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\index.php.html
+Content Type: text/html
+
+Uri: https://fen-styler.shopyou.site/js/jquery.maskedinput.min.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://fen-styler.shopyou.site/js/jquery.min.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fen-styler.shopyou.site/js/previewYouTube.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://fen-styler.shopyou.site/js/scripts.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://fen-styler.shopyou.site/js/sweetalert2.all.min.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\js\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://fen-styler.shopyou.site/politics.html
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\politics.html
+Content Type: text/html
+
+Uri: https://fen-styler.shopyou.site/slick/ajax-loader.gif
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://fen-styler.shopyou.site/slick/fonts/slick-1.eot
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fen-styler.shopyou.site/slick/fonts/slick.bin
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\fonts\slick.bin
+Content Type: application/octet-stream
+
+Uri: https://fen-styler.shopyou.site/slick/fonts/slick.eot
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fen-styler.shopyou.site/slick/fonts/slick.svg
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://fen-styler.shopyou.site/slick/fonts/slick.woff
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://fen-styler.shopyou.site/slick/slick-theme.css
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://fen-styler.shopyou.site/slick/slick.css
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\slick.css
+Content Type: text/css
+
+Uri: https://fen-styler.shopyou.site/slick/slick.min.js
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700&subset=cyrillic
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=224594127363947&ev=PageView&noscript=1
+File Name: C:\Users\Dima\Desktop\fen-styler.shopyou.site\tr
+Content Type: text/plain
+
